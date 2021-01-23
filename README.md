@@ -2,7 +2,7 @@
 
 Detayları verilecek olan problemin önce MATLAB sonrada C++ Eigen ile çözümünü gerçekleştiriniz.
 
-1- 1 ile 100 arasında rastgele tam sayılardan oluşan 5x8 matris tanımlayınız. 
+1- 1 ile 100 arasında rastgele tam sayılardan oluşan 5x8 matris tanımlayınız.<br> 
 2- Rastgele değerlerle bir 5x4x3 dizi oluşturun .
 3- Rastgele değerlerle 10x10’luk bir dizi oluşturun ve minimum-maksimum değerleri bulun.
 4- 5x3 matrisi 3x2 matrisle çarpın. Bu matrislerin elemanlarını karşılıklı olarak çarpın.
